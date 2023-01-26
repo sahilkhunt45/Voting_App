@@ -168,21 +168,7 @@ class _HomePageState extends State<HomePage> {
                                           ),
                                         ],
                                       ),
-                                      // Text(
-                                      //   "${documents[i]['vote']}",
-                                      //   style: const TextStyle(
-                                      //     color: Colors.purple,
-                                      //     fontWeight: FontWeight.bold,
-                                      //     fontSize: 30,
-                                      //   ),
-                                      // ),
-                                      // (Global.user!['vote'] == true)
-                                      //     ? const Icon(
-                                      //         Icons.where_to_vote,
-                                      //         color: Colors.green,
-                                      //         size: 40,
-                                      //       )
-                                      //     : Container(),
+                                 
                                       Container(
                                         height: 100,
                                         width: 100,
